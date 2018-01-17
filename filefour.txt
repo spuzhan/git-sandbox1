@@ -1,4 +1,7 @@
 commenting the changes freom my project directory
-now this change is required else there is trouble on my way.
 
+
+=======
+ have started working with the new file. Ammending the commit
+ this is a bug fix
 
