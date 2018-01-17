@@ -1,2 +1,3 @@
 commenting the changes freom my project directory
-
+ have started working with the new file. Ammending the commit
+ this is a bug fix
